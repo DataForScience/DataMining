@@ -1,0 +1,9 @@
+wget==3.2
+numpy==1.16.2
+tweepy==3.8.0
+watermark==1.8.1
+matplotlib==3.0.3
+requests==2.21.0
+networkx==2.2
+pyquery==1.4.0
+beautifulsoup4==4.8.0
