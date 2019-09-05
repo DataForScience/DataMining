@@ -1,0 +1,31 @@
+<page>
+  <title>Ôn Keuë</title>
+  <ns>0</ns>
+  <id>1</id>
+  <revision>
+    <id>1028</id>
+    <timestamp>2008-04-13T07:53:23Z</timestamp>
+    <contributor>
+      <ip>125.162.38.87</ip>
+    </contributor>
+    <comment>New page: Jinoë droën neuh ka neutamong lam Wikipèdia  Acèh. Wikipèdia  Acèh nyoë mantöng geu’ujoë, geukalön peuë ék na soë peudawôk peuë h‘an. Meunyoë le nyang pakoë, Wikipèdi...</comment>
+    <model>wikitext</model>
+    <format>text/x-wiki</format>
+    <text id="815" bytes="3106" />
+    <sha1>43iy7hfjh19xt1683z27ii0ie35z9am</sha1>
+  </revision>
+  <revision>
+    <id>1029</id>
+    <parentid>1028</parentid>
+    <timestamp>2008-04-13T08:01:10Z</timestamp>
+    <contributor>
+      <username>Si Gam Acèh</username>
+      <id>0</id>
+    </contributor>
+    <comment>Removing all content from page</comment>
+    <model>wikitext</model>
+    <format>text/x-wiki</format>
+    <text id="816" bytes="0" />
+    <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+  </revision>
+</page>
